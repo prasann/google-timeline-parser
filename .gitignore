@@ -1,0 +1,5 @@
+**/*.json
+**/*.csv
+.venv/
+__pycache__/ 
+.DS_Store
