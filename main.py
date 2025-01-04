@@ -8,7 +8,9 @@ def main():
 
     args = parser.parse_args()
     
+    #replace this with the timeline.json
     input_json = './timeline.json'
+    
     timeline_path_csv = './timeline_path.csv'
     places_csv = './places.csv'
 
